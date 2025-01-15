@@ -1,10 +1,3 @@
-import Home from "./pages/Home"
-import Works from "./pages/Works"
-import Fun from "./pages/About"
-import { Routes, Route, HashRouter } from "react-router-dom";
-
-
-
 function App() {
     return (
       <>
@@ -20,7 +13,6 @@ function App() {
             This is used for another paragraph.
           </p>
           </div1>
-  
   
      </>
   
